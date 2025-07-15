@@ -1,3 +1,3 @@
 # Fullstack_dev
-its an Days Fulstack devlopment Learning course offered my our colllege
+its an 50 Days Fulstack devlopment Learning course offered my our colllege
 
